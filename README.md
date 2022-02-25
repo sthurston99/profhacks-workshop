@@ -17,4 +17,6 @@ It's formatted using Markdown, a pretty simple text formatting language that you
 
 That's most of it, but there's some handy cheat-sheets, guides, and editors out there you can use if you ever get confused.
 
+[Here's one that I recommend, and use quite a bit!](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 ## Learning markdown is important, because having a nice, pretty, readable README is the first step to having someone be able to clone and compile your code for their own use.
